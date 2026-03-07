@@ -1,0 +1,30 @@
+Data Structures
+ ├─ Arrays, Linked Lists
+ ├─ Search Trees
+ │   ├─ BST
+ │   ├─ AVL
+ │   ├─ B-Trees
+ │   └─ Order-Statistic Trees
+ ├─ Heaps
+ │   ├─ Binary
+ │   ├─ Binomial
+ │   └─ Fibonacci
+ ├─ Hash Tables
+ └─ Union–Find
+
+Algorithms
+ ├─ Sorting
+ ├─ Selection
+ ├─ Tree Operations
+ └─ Disjoint Set Algorithms
+
+Analysis
+ ├─ Asymptotic Bounds
+ ├─ Amortized Analysis
+ ├─ Expected Complexity
+ └─ Recursive Analysis
+
+Mathematics
+ ├─ Discrete Math
+ ├─ Probability
+ └─ Recursion / Induction

@@ -1,0 +1,16 @@
+# Data Manipulation & Math
+numpy>=2.0.0
+pandas
+
+# Machine Learning
+scikit-learn>=1.4.2,<1.6.0
+xgboost
+pulearn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Integration & Utilities
+openai

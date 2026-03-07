@@ -1,0 +1,134 @@
+{
+  "Data Structures": {
+    "Arrays & Lists": [
+      "Arrays",
+      "Dynamic Arrays",
+      "Circular Arrays",
+      "Linked Lists",
+      "Sentinel Nodes",
+      "Stacks",
+      "Queues",
+      "Deques"
+    ],
+    "Trees": [
+      "Binary Search Trees (BST)",
+      "Randomly Built BSTs",
+      "Tree Traversals (In-order, Pre-order, Post-order)",
+      "AVL Trees",
+      "Balance Factor",
+      "Fibonacci Trees",
+      "AVL Rotations",
+      "AVL Join and Split",
+      "Rank Trees",
+      "Select and Rank Operations",
+      "Finger Trees",
+      "B-Trees",
+      "B-Tree Node Splitting and Fusing",
+      "B-Tree Top-Down vs Bottom-Up Operations"
+    ],
+    "Heaps / Priority Queues": [
+      "Priority Queues",
+      "Binary Heaps",
+      "Binomial Heaps",
+      "Lazy Binomial Heaps",
+      "Fibonacci Heaps"
+    ],
+    "Hashing": [
+      "Hash Tables",
+      "Direct Addressing",
+      "Chaining",
+      "Open Addressing",
+      "Linear Probing",
+      "Universal Hashing",
+      "Perfect Hashing",
+      "Modular Hash Function"
+    ],
+    "Disjoint Sets": [
+      "Union-Find",
+      "Union by Rank",
+      "Path Compression"
+    ],
+    "Graphs": [
+      "Directed Graphs",
+      "Adjacency Matrix",
+      "Adjacency List"
+    ]
+  },
+  "Algorithms": {
+    "Sorting": [
+      "Insertion Sort",
+      "Heap Sort",
+      "Quick Sort",
+      "Counting Sort",
+      "Radix Sort",
+      "Sorting Lower Bound",
+      "Topological Sort"
+    ],
+    "Selection": [
+      "Selection Problem",
+      "Quick-Select",
+      "Randomized-Select",
+      "Median-of-Medians"
+    ],
+    "Tree Ops": [
+      "Search",
+      "Insert",
+      "Delete",
+      "Successor",
+      "Predecessor",
+      "Min",
+      "Max"
+    ],
+    "Union-Find Ops": [
+      "Make-Set",
+      "Find",
+      "Union",
+      "Link"
+    ]
+  },
+  "Analysis": {
+    "Asymptotic": [
+      "Big-O",
+      "Big-Omega",
+      "Big-Theta",
+      "Little-o",
+      "Little-omega"
+    ],
+    "Amortized": [
+      "Aggregate Method",
+      "Accounting Method",
+      "Potential Method",
+      "De-amortization"
+    ],
+    "Recurrences": [
+      "Recurrence Relations",
+      "Divide-and-Conquer",
+      "Master Theorem"
+    ],
+    "Expected": [
+      "Average vs Worst Case",
+      "Expected Time",
+      "Randomized Algorithms"
+    ]
+  },
+  "Math": {
+    "Discrete Math": [
+      "Logarithms",
+      "Growth Rates",
+      "Harmonic Series",
+      "Catalan Numbers",
+      "Fibonacci Numbers"
+    ],
+    "Probability": [
+      "Random Variable",
+      "Indicator Variables",
+      "Expectation",
+      "Markov's Inequality"
+    ],
+    "Recursion": [
+      "Induction",
+      "Recursive Definitions",
+      "Ackermann Function"
+    ]
+  }
+}

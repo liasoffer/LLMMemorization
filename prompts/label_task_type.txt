@@ -1,0 +1,22 @@
+TASK:
+You are given a DATA STRUCTURES or ALGORITHMS exam QUESTION.
+
+Your job is to identify what the student is required to do.
+
+IMPORTANT RULES:
+- Use ONLY task-type labels defined in the label taxonomy JSON.
+- Choose EXACTLY ONE primary_task_type.
+- Choose secondary_task_types ONLY if the question explicitly requires supporting work.
+- Do NOT infer solution details beyond what the question asks.
+- Do NOT include explanations or natural language.
+- Do NOT repeat the primary label in the secondary list.
+
+FORMAT REQUIREMENTS (MANDATORY):
+Return EXACTLY the following JSON structure and nothing else:
+
+{
+  "primary_task_type": "",
+  "secondary_task_types": []
+}
+
+QUESTION:

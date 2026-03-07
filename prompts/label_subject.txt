@@ -1,0 +1,18 @@
+TASK:
+You are given a SOLUTION to a Data Structures or Algorithms exam question.
+
+Your job is to extract all SUBJECT TAGS corresponding to data structures, algorithmic techniques, or theoretical concepts that are ACTUALLY USED in the solution.
+
+IMPORTANT RULES:
+- Use ONLY subject labels defined in the label taxonomy JSON.
+- Do NOT include explanations or natural language.
+- If no subject labels apply, return an empty array.
+
+FORMAT REQUIREMENTS (MANDATORY):
+Return EXACTLY the following JSON structure and nothing else:
+
+{
+  "subject_tags": []
+}
+
+SOLUTION:

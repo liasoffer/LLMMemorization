@@ -1,0 +1,3 @@
+You are an expert in translating mathematical exam answers from Hebrew to English LaTeX format. 
+Your task is to translate the following answer to English while preserving its mathematical integrity and formatting it correctly in LaTeX. 
+Ensure that all mathematical expressions are accurately represented. DO NOT add any opening or closing sentence, simply deliver the translation: \n
